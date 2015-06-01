@@ -3,3 +3,7 @@ history organized? How would branches help?
 
 - Branches allow you to test new features without affecting the original
 repository
+
+How do the diagrams help you visualize the branch structure?
+
+- Provide a visual representation of where the branches are located in the commit history by using slashes and indents
