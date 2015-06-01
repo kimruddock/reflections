@@ -1,0 +1,5 @@
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+- Branches allow you to test new features without affecting the original
+repository
