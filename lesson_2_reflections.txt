@@ -1,9 +1,16 @@
-What are some situations when branches would be helpful in keeping your 
+- What are some situations when branches would be helpful in keeping your 
 history organized? How would branches help?
 
-- Branches allow you to test new features without affecting the original
+Branches allow you to test new features without affecting the original
 repository
 
-How do the diagrams help you visualize the branch structure?
+- How do the diagrams help you visualize the branch structure?
 
-- Provide a visual representation of where the branches are located in the commit history by using slashes and indents
+Provide a visual representation of where the branches are located in the commit history by using slashes and indents
+
+- What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
+
+Pros - less work, quicker development time
+Cons - Git may choose incorrectly when merge conflicts occur meaning some
+intended changes are lost
