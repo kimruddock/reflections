@@ -7,3 +7,11 @@ In case your computer was stolen or your hard drive blows up!
 
 There may be changes you have made locally that you don't want to be
 overwritten. There could be merge conflicts.
+
+- Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+
+Fork: making a clone of a repository directly in your Github account
+Clone: a duplicate repository made to your local machine
+Branch: a separate path of changes and updates that can later be merged back
+in to the main repository
