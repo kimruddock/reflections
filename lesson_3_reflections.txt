@@ -21,3 +21,11 @@ remote stored locally?
 
 So that you can work on the most up to date version of the project whilst
 offline.
+
+- How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+
+The project could be uploaded to a central server by ftp and downloaded by
+each person on the project when they need to work on it. Multiple versions
+of the project could be stored to maintain some sort of history but this
+could quickly use up server space if the project is very large.
