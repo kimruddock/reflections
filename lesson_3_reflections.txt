@@ -15,3 +15,9 @@ Fork: making a clone of a repository directly in your Github account
 Clone: a duplicate repository made to your local machine
 Branch: a separate path of changes and updates that can later be merged back
 in to the main repository
+
+- What is the benefit of having a copy of the last known state of the 
+remote stored locally?
+
+So that you can work on the most up to date version of the project whilst
+offline.
