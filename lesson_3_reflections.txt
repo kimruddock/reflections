@@ -29,3 +29,10 @@ The project could be uploaded to a central server by ftp and downloaded by
 each person on the project when they need to work on it. Multiple versions
 of the project could be stored to maintain some sort of history but this
 could quickly use up server space if the project is very large.
+
+- When would you want to make changes in a separate branch rather than
+ directly in master? What benefits does each approach have?
+
+Making changes in a separate branch helps to avoid conflicts or overwriting
+someone elses work. Doing changes in the master branch means less steps
+overall to make a change and merge that change into the online repository.
